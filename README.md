@@ -1,4 +1,4 @@
-# Practice2022<br>
+# CardGame<br>
 easy game made for 14 days by 2 peoples<br>
 Developed with Unreal Engine 5<br>
 WASD to move on first level <br>
