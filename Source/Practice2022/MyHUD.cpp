@@ -6,7 +6,6 @@
 void AMyHUD::DrawHUD()
 {
 	Super::DrawHUD();
-	AHUD::DrawText("Test", FColor::White, 1, 1, hudFont);
 
 	for (int c = messages.Num() - 1; c >= 0; c--)
 	{
