@@ -2,7 +2,7 @@
 
 
 #include "MyGameInstance.h"
-#include "MyHUD.h"
+
 
 void UMyGameInstance::OnWorldChanged(UWorld* OldWorld, UWorld* NewWorld)
 {
